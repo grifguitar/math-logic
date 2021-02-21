@@ -1,7 +1,0 @@
-all: main.jar
-
-main.jar:
-	javac -cp "src" "src/TaskC/Main.java"
-
-run: main.jar
-	java -Xmx1024M -Xms1024M -cp "src" TaskC.Main
