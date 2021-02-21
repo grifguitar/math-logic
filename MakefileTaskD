@@ -1,0 +1,7 @@
+all: main.jar
+
+main.jar:
+	javac -cp "src" "src/TaskD/Main.java"
+
+run: main.jar
+	java -Xmx500M -Xms500M -cp "src" TaskD.Main
