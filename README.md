@@ -3,9 +3,8 @@ Homework for the course in Mathematical Logic, ITMO CT, Spring 2020
 ## Материалы
 + [Конспект 2018 года](https://github.com/shd/logic2018/blob/master/conspect.pdf)
 + [Конспект 2011 года](https://github.com/shd/logic2011/blob/master/conspect.pdf)
-+ [Теоретические домашние задания](https://github.com/shd/logic2020/blob/master/hw-theory.pdf)
-
-+ [Краткая инструкция по утилите make](https://github.com/shd/logic2018/blob/master/make.pdf)
++ [Теоретические домашние задания](https://github.com/grifguitar/math-logic/blob/main/hw-theory.pdf)
++ [Лабораторные работы](https://github.com/grifguitar/math-logic/blob/main/ml-2018.pdf)
 
 ## Лекция 1
 ### Исчисление высказываний
@@ -85,4 +84,3 @@ https://www.mccme.ru/free-books/shen/shen-logic-part2-2.pdf
 + Формальная арифметика
 ### Где почитать
 + Конспект 2011 года по логике.
-+ Курс на Степике (модуль 5)
