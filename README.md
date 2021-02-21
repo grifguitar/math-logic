@@ -3,8 +3,8 @@ Homework for the course in Mathematical Logic, ITMO CT, Spring 2020
 ## Материалы
 + [Конспект 2018 года](https://github.com/shd/logic2018/blob/master/conspect.pdf)
 + [Конспект 2011 года](https://github.com/shd/logic2011/blob/master/conspect.pdf)
-+ [Теоретические домашние задания](https://github.com/grifguitar/math-logic/blob/main/hw-theory.pdf)
-+ [Лабораторные работы](https://github.com/grifguitar/math-logic/blob/main/ml-2018.pdf)
++ [Теоретические домашние задания](https://github.com/grifguitar/math-logic/blob/main/pdf/hw-theory.pdf)
++ [Лабораторные работы](https://github.com/grifguitar/math-logic/blob/main/pdf/ml-2018.pdf)
 
 ## Лекция 1
 ### Исчисление высказываний
@@ -17,7 +17,7 @@ Homework for the course in Mathematical Logic, ITMO CT, Spring 2020
 ### Где почитать
 + Н.К. Верещагин, А. Шень. Лекции по математической логике и теории алгоритмов. Языки и исчисления.
 https://www.mccme.ru/free-books/shen/shen-logic-part2-2.pdf
-+ Конспекты 2011 и 2018 года по логике.
++ Конспекты 2011 и 2018 года
 
 ## Лекция 2
 ### Важные теоремы про исчисление высказываний. Интуиционистская логика
@@ -29,7 +29,7 @@ https://www.mccme.ru/free-books/shen/shen-logic-part2-2.pdf
 ### Где почитать
 + Н.К. Верещагин, А. Шень. Лекции по математической логике и теории алгоритмов. Языки и исчисления.
 https://www.mccme.ru/free-books/shen/shen-logic-part2-2.pdf
-+ Конспекты 2011 и 2018 года по логике.
++ Конспекты 2011 и 2018 года
 + Morten Heine B. Sørensen, Pawel Urzyczyn: Lections on the Curry-Howard Isomorphism
 https://disi.unitn.it/~bernardi/RSISE11/Papers/curry-howard.pdf
 
@@ -77,10 +77,9 @@ https://disi.unitn.it/~bernardi/RSISE11/Papers/curry-howard.pdf
 + П.Дж. Коэн, Теория множеств и континуум-гипотеза --- М.: Изд-во <<Мир>>, 1969.
 + Н.К. Верещагин, А. Шень. Лекции по математической логике и теории алгоритмов. Языки и исчисления.
 https://www.mccme.ru/free-books/shen/shen-logic-part2-2.pdf
-+ Курс на Степике (модуль 4)
 
 ## Лекция 8
 + Аксиоматика Пеано
 + Формальная арифметика
 ### Где почитать
-+ Конспект 2011 года по логике.
++ Конспект 2011 года
